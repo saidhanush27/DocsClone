@@ -117,9 +117,4 @@ Sai Dhanush VR<br>
 ⭐ If you found this project helpful, consider giving it a star on GitHub!<br>
 
 ---
-
-This README includes everything: **setup, Firebase configuration, project structure, deployment, and future improvements**. 🎯  <br>
-
 Let me know if you want any modifications! 🚀
-
-
