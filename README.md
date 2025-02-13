@@ -31,7 +31,7 @@ A real-time collaborative text editor built using **React (Vite), TypeScript, Fi
 ---
 
 ## OUTPUT SCREENSHOTS:
-[IMAGES]()
+![IMAGES](COLLABDOCS.png)
 
 
 
