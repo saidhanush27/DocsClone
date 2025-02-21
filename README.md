@@ -44,8 +44,6 @@ cd google-docs-clone
  ```
 ### 2️⃣ Install dependencies
 ```sh
-Copy
-Edit
 npm install
  ```
 ### 3️⃣ Set Up Firebase
@@ -76,8 +74,6 @@ export const auth = getAuth(app);
 
 ###  4️⃣ Start Development Server
 ```sh
-Copy
-Edit
 npm run dev
 Your app will be live at http://localhost:5173/ 🚀
  ```
@@ -88,15 +84,11 @@ To deploy your app:
 
 Build the project
 ```sh
-Copy
-Edit
 npm run build
  ```
 
 ### Deploy to Vercel (recommended)
   ```sh
-Copy
-Edit
 npm install -g vercel
 ```
 
